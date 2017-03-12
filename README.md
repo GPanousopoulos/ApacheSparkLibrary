@@ -1,2 +1,8 @@
 # ApacheSparkLibrary
-A library with pyspark scripts from the Data Science and Engineering Certificate at UC Berkeley
+A library with pyspark scripts (IPython Notebooks) including:
+- Parsing Apache server web logs
+- Counting words
+- Text analysis and entity resolution
+- ALS predictions
+- Implement Linear Regression
+- PCA
